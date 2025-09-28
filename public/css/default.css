@@ -1,4 +1,18 @@
-body {
-    font-family: sans-serif;
-    text-align: center;
+
+body{
+    background-color: rgb(255, 117, 25);
+    text-align: left;
 }
+.letra{
+    font-size: 175%;
+    color: rgb(255, 117, 25);
+}
+main.content {
+    min-height: calc(100vh - 120px); 
+    background-color: white;
+    padding-bottom: 10px; 
+}
+.letrinha{
+    font-family: 'Poppins', sans-serif;
+}
+     
